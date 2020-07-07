@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ryant4333/nginx_tester/issues"
   },
-  "homepage": "https://github.com/ryant4333/nginx_tester#readme"
+  "homepage": "https://github.com/ryant4333/nginx_tester#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
